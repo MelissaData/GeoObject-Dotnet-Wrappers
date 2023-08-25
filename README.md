@@ -13,7 +13,7 @@ For further details, please visit: https://www.melissa.com/reference-guides/geoc
 ## Tested Environments
 
 - Windows 64-bit .NET 7.0
-- Melissa GeoCoder Object for 2023-07
+- Melissa GeoCoder Object for 2023-08
 
 ## Getting Started
 
