@@ -12,15 +12,15 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/geoco
 ## Tested Environments
 - Windows 10 64-bit .NET 7.0, Powershell 5.1
 - Linux 64-bit .NET 7.0, Ubuntu 20.04.05 LTS
-- Melissa GeoCoder Object for 2024-Q3
+- Melissa GeoCoder Object for 2024-Q4
 - Wrapper file(s) have not changed since 2024-Q1
 
 ## Getting Started
 
 ### Download this project
 ```
-$ git clone https://github.com/MelissaData/GeoObject-Dotnet-Wrappers
-$ cd GeoObject-Dotnet-Wrappers
+git clone https://github.com/MelissaData/GeoObject-Dotnet-Wrappers
+cd GeoObject-Dotnet-Wrappers
 ```
 
 ### Copy wrappers to your project folder
@@ -51,13 +51,13 @@ Parameters:
 - license (optional): a license key to run the powershell script
 
 ```
-$ .\BuildGeoNETdll.ps1
+.\BuildGeoNETdll.ps1
 ```
 
 or
 
 ```
-$ .\BuildGeoNETdll.ps1 -license "<your_license_key>"
+.\BuildGeoNETdll.ps1 -license "<your_license_key>"
 ```
 
 ## See also
