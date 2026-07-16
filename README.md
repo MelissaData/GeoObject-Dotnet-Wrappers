@@ -19,8 +19,8 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/geoco
 
 ### Download this project
 ```
-git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/net/melissageocoderobjectnetwrappers.git
-cd melissageocoderobjectnetwrappers
+git clone https://github.com/MelissaData/GeoObject-Dotnet-Wrappers
+cd GeoObject-Dotnet-Wrappers
 ```
 
 ### Copy wrappers to your project folder
